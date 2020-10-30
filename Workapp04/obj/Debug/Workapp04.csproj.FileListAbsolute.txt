@@ -1,0 +1,9 @@
+C:\Users\krits\Desktop\DB\Work\Workapp04\bin\Debug\Workapp04.exe
+C:\Users\krits\Desktop\DB\Work\Workapp04\bin\Debug\Workapp04.pdb
+C:\Users\krits\Desktop\DB\Work\Workapp04\obj\Debug\Workapp04.csprojAssemblyReference.cache
+C:\Users\krits\Desktop\DB\Work\Workapp04\obj\Debug\Workapp04.Form1.resources
+C:\Users\krits\Desktop\DB\Work\Workapp04\obj\Debug\Workapp04.Properties.Resources.resources
+C:\Users\krits\Desktop\DB\Work\Workapp04\obj\Debug\Workapp04.csproj.GenerateResource.cache
+C:\Users\krits\Desktop\DB\Work\Workapp04\obj\Debug\Workapp04.csproj.CoreCompileInputs.cache
+C:\Users\krits\Desktop\DB\Work\Workapp04\obj\Debug\Workapp04.exe
+C:\Users\krits\Desktop\DB\Work\Workapp04\obj\Debug\Workapp04.pdb
