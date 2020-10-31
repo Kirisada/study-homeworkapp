@@ -178,9 +178,9 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(12, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(157, 42);
+            this.label1.Size = new System.Drawing.Size(147, 42);
             this.label1.TabIndex = 19;
-            this.label1.Text = "Register";
+            this.label1.Text = "Student";
             // 
             // cbbMajor
             // 
@@ -248,7 +248,7 @@
             this.Controls.Add(this.txtSNo);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Register";
+            this.Text = "Student";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
